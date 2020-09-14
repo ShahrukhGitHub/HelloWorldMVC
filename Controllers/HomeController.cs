@@ -20,7 +20,12 @@ namespace HelloWorldMVC.Controllers
 
         public IActionResult Index()
         {
-            return View();//Hello 12
+            return View();//Hello 15
+        }
+        public IActionResult IndexDev1()
+        {
+
+            return View();
         }
         public IActionResult IndexDev2()
         {

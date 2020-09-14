@@ -20,7 +20,7 @@ namespace HelloWorldMVC.Controllers
 
         public IActionResult Index()
         {
-            return View();//Hello
+            return View();//Hello 12
         }
 
         public IActionResult Privacy()

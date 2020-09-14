@@ -22,7 +22,11 @@ namespace HelloWorldMVC.Controllers
         {
             return View();//Hello 12
         }
+        public IActionResult IndexDev2()
+        {
 
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
